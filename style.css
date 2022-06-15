@@ -1,0 +1,82 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.container{
+  padding: 5rem 15rem;
+}
+.card{
+  padding-left: 4rem;
+  padding: 2rem;
+  
+}
+.Header__container{
+  display: flex;
+  margin-bottom: 3rem;
+  font-family: sans-serif;
+  
+
+}
+
+.logo__container-image{
+  width: 2rem;
+  height: 2rem;
+}
+.logo__container-text{
+  margin-left: 1rem;
+  font-weight: 200;
+  margin-top: 3px;
+  
+}
+.form__group{
+  margin-bottom: 3rem;
+}
+.form__input{
+  outline: none;
+  padding: 1rem;
+  width: 100%;
+}
+.form-check{
+  margin-bottom: 2rem;
+}
+.fisrt-heading{
+  margin-bottom: 1rem;
+}
+
+.button{
+  background-color: #111111;
+  padding: 1rem 10rem;
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-weight: 700;
+  font-family: sans-serif;
+  
+}
+.button:hover{
+color: rgba(62, 62, 180, 0.493);
+}
+.other-text{
+  padding-top: 2rem;
+  font-family: sans-serif;
+
+}
+.touch__us-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 5rem 0 0;
+}
+.touch__us-image{
+  width: 1.5rem;
+  height: 1.rem;
+}
+.touch__us-text{
+  border: 2px solid black;
+  padding: 1rem 4rem;
+  text-decoration: none;
+  color: #111111;
+}
+/* .touch__us-text:hover{
+  color: rgba(62, 62, 180, 0.493);
+} */
